@@ -1,0 +1,233 @@
+---
+title: "Yue Jiang's cv (public)"
+author: Yue Jiang
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+```{css, echo=FALSE}
+:root{
+  --sidebar-width: 12rem;
+  --sidebar-horizontal-padding: 0.2in;
+  --sidebar-background-color: #2ECC71;
+  --decorator-border-width: 2px;
+}
+a {
+  color: #2ECC71;
+}
+.aside {
+  color: #FFFFFF;
+  padding-top: 0.35in;
+}
+.aside a {
+  color: #FFFFFF;
+}
+.aside .level2 h2{
+  color: #FFFFFF;
+  margin-top: 0.4in;
+}
+.blocks {
+  break-inside: avoid;
+}
+.decorator::before {
+  background-color: #2ECC71;
+}
+.decorator::after {
+  background-color: #fff;
+}
+```
+
+Aside
+================================================================================
+
+
+<!-- ![Yue Jiang](https://avatars.githubusercontent.com/Yue-Jiang){width=80%} -->
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> rivehill@gmail.com
+- <i class="fa fa-github"></i> [github.com/Yue-Jiang](https://github.com/Yue-Jiang)
+- <i class="fa fa-home"></i> [yuejiang.org](https://yuejiang.org)
+- <i class="fa fa-google"></i> [bit.ly/2RRzfAP](https://bit.ly/2RRzfAP)
+- <i class="fab fa-linkedin"></i> [bit.ly/2FrdRfV](https://bit.ly/2FrdRfV)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- *Proficient* <br>**R**
+- *Intermediate*<br>**Python<br>Shell script**
+- *Have experience*<br> **HTML5 and CSS<br>C++<br>Perl**
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made with [pagedown](https://github.com/rstudio/pagedown) in <i class="fab fa-r-project"></i>.
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Jiang, Yue 姜岳 {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=university data-concise=true}
+--------------------------------------------------------------------------------
+
+### Peking University
+
+B.S., School of Life Sciences
+
+Beijing, China
+
+2004 - 2008
+
+### Duke University
+
+Ph.D., University Program of Genetics and Genomics
+
+Durham, NC
+
+2009 - 2015
+
+### Duke University
+
+M.S., Statistical Science (concurrent)
+
+Durham, NC
+
+2014 - 2015
+
+Experience {data-icon=project-diagram}
+--------------------------------------------------------------------------------
+
+### Data Scientist <i class="fa fa-arrow-right"></i> Senior Data Scientist / Senior Scientist
+
+Juno Therapeutics / Celgene / Bristol-Myers Squibb
+
+Seattle, WA
+
+2016 - present
+
+### Decision Support Engineering Analyst Intern
+
+Google [X] / Verily Life Sciences
+
+Mountain View, CA
+
+2015
+
+
+Publications and Preprints {data-icon=book}
+--------------------------------------------------------------------------------
+
+### High-throughput mapping of meiotic crossover and chromosome mis-segregation events in interspecific hybrid mice.
+
+bioRxiv
+
+N/A
+
+2018
+
+Yin Y, **Jiang Y**, Berletch JB, Disteche CM, Noble WS, Steemers FJ, Adey AC, Shendure JA.
+<br>[<i class="fa fa-link"></i> doi.org/10.1101/338053](https://doi.org/10.1101/338053)
+
+
+### Single-cell sequencing reveals &alpha;&beta; chain pairing shapes the T cell repertoire.
+
+bioRxiv
+
+N/A
+
+2017
+
+Grigaityte K, Carter JA, Goldfless SJ, Jeffery EW, Hause RJ, **Jiang Y**, Koppstein D, Briggs AW, Church GM, Vigneault F, Atwal GS.
+<br>[<i class="fa fa-link"></i> doi.org/10.1101/213462](https://doi.org/10.1101/213462)
+
+### Variation in olfactory neuron repertoires is genetically controlled and environmentally modulated.
+
+eLife
+
+N/A
+
+2017
+
+Ibarra-Soria X, Nakahara TS, Lilue J, **Jiang Y**, Trimmer C, Souza MA, Netto PH, Ikegami K, Murphy NR, Kusma M, Kirton A, Saraiva LR, Keane TM, Matsunami H, Mainland JD, Papes F, Logan DW.
+<br>[<i class="fa fa-link"></i> doi.org/10.7554/eLife.21476](https://doi.org/10.7554/eLife.21476)
+
+### Molecular profiling of activated olfactory neurons identifies odorant receptors for odors _in vivo_.
+
+Nature Neuroscience
+
+N/A
+
+2015
+
+**Jiang Y**, Gong N, Hu X, Ni J, Pasi R, Matsunami H.
+<br>[<i class="fa fa-link"></i> doi.org/10.1038/nn.4104](https://doi.org/10.1038/nn.4104)
+
+### Muscarinic acetylcholine receptor M3 modulates odorant receptor activity via inhibition of &beta;-arrestin-2 recruitment.
+
+Nature Communications
+
+N/A
+
+2015
+
+**Jiang Y**\*, Li Y\*, Tian H, Ma M, Matsunami H. \*equal contributions.
+<br>[<i class="fa fa-link"></i> doi.org/10.1038/ncomms7448](https://doi.org/10.1038/ncomms7448)
+
+### Mammalian odorant receptors: functional evolution and variation.
+
+Current Opinion in Neurobiology
+
+N/A
+
+2015
+
+**Jiang Y** and Matsunami H.
+<br>[<i class="fa fa-link"></i> doi.org/10.1016/j.conb.2015.01.014](https://doi.org/10.1016/j.conb.2015.01.014)
+          
+### Calreticulin: roles in cell-surface protein expression.
+
+Membranes
+
+N/A
+
+2014
+
+**Jiang Y**, Dey S, Matsunami H.
+<br>[<i class="fa fa-link"></i> doi.org/10.3390/membranes4030630](https://doi.org/10.3390/membranes4030630)
+
+### Astringency: a more stringent definition.
+
+Chemical Senses
+
+N/A
+
+2014
+
+**Jiang Y**, Gong N, Matsunami H.
+<br>[<i class="fa fa-link"></i>  doi.org/10.1093/chemse/bju021](https://doi.org/10.1093/chemse/bju021)
+
+### Endocytic sorting and recycling require membrane phosphatidylserine asymmetry maintained by TAT-1/CHAT-1.
+
+Plos Genetics
+
+N/A
+
+2012
+       
+Chen B, **Jiang Y**, Zeng S, Yan J, Li X, Zhang Y, Zou W, Wang X.
+<br>[<i class="fa fa-link"></i> doi.org/10.1371/journal.pgen.1001235](https://doi.org/10.1371/journal.pgen.1001235)

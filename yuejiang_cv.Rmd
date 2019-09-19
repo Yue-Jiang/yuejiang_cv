@@ -132,28 +132,28 @@ Mountain View, CA
 Publications and Preprints {data-icon=book}
 --------------------------------------------------------------------------------
 
-### High-throughput mapping of meiotic crossover and chromosome mis-segregation events in interspecific hybrid mice.
+### High-Throughput Single-Cell Sequencing with Linear Amplification.
 
-bioRxiv
-
-N/A
-
-2018
-
-Yin Y, **Jiang Y**, Berletch JB, Disteche CM, Noble WS, Steemers FJ, Adey AC, Shendure JA.
-<br>[<i class="fa fa-link"></i> doi.org/10.1101/338053](https://doi.org/10.1101/338053)
-
-
-### Single-cell sequencing reveals &alpha;&beta; chain pairing shapes the T cell repertoire.
-
-bioRxiv
+Molecular Cell
 
 N/A
 
-2017
+2019
 
-Grigaityte K, Carter JA, Goldfless SJ, Jeffery EW, Hause RJ, **Jiang Y**, Koppstein D, Briggs AW, Church GM, Vigneault F, Atwal GS.
-<br>[<i class="fa fa-link"></i> doi.org/10.1101/213462](https://doi.org/10.1101/213462)
+Yin Y, **Jiang Y**, Lam KG, Berletch JB, Disteche CM, Noble WS, Steemers FJ, Camerini-Otero RD, Adey AC, Shendure JA.
+<br>[<i class="fa fa-link"></i> doi.org/10.1016/j.molcel.2019.08.002](https://doi.org/10.1016/j.molcel.2019.08.002)
+
+
+### Anti-B-cell maturation antigen chimeric antigen receptor T cell function against multiple myeloma is enhanced in the presence of lenalidomide.
+
+Molecular Cancer Therapeutics
+
+N/A
+
+2019
+
+Works M, Soni N, Hauskins C, Sierra C, Baturevych A, Jones JC, Curtis W, Carlson P, Johnstone TG, Kugler D, Hause RJ, **Jiang Y**, Wimberly L, Clouser CR, Jessup HK, Sather B, Salmon RA, Ports MO.
+<br>[<i class="fa fa-link"></i> doi.org/10.1158/1535-7163.MCT-18-1146](https://doi.org/10.1158/1535-7163.MCT-18-1146)
 
 ### Variation in olfactory neuron repertoires is genetically controlled and environmentally modulated.
 

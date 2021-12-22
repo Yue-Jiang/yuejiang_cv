@@ -112,13 +112,21 @@ Durham, NC
 Experience {data-icon=project-diagram}
 --------------------------------------------------------------------------------
 
-### Data Scientist <i class="fa fa-arrow-right"></i> Senior Data Scientist / Senior Scientist
+### Senior Principal Data Scientist
+
+Shape Therapeutics
+
+Seattle, WA
+
+2021 - present
+
+### Data Scientist <i class="fa fa-arrow-right"></i> Associate Director
 
 Juno Therapeutics / Celgene / Bristol-Myers Squibb
 
 Seattle, WA
 
-2016 - present
+2016 - 2021
 
 ### Decision Support Engineering Analyst Intern
 
